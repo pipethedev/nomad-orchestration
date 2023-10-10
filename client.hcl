@@ -6,7 +6,7 @@ name = "s1-client"
 
 client {
     enabled = true
-    servers = ["<NODE_ID>:4647"]
+    servers = ["<PARENT_PUBLIC_IP>:4647"]
 }
 
 ports {
